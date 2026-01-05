@@ -1,6 +1,6 @@
 # Physics-Based Simulation Core
 
-A comprehensive framework and system prompt architecture for Large Language Models that prioritizes **uncompromising realism**, **sensory-only output**, and **complex psychological modeling**.
+A comprehensive framework and system prompt architecture for Large Language Models using Silly Tavern (ST) that prioritizes **uncompromising realism**, **sensory-only output**, and **complex psychological modeling**.
 
 This core is designed to move AI beyond "storytelling" and into "world simulati
 
