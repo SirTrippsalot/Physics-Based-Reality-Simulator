@@ -1,4 +1,4 @@
-# Physics-Based Simulation Core
+# Physics-Based Reality Simulation Core
 
 A comprehensive framework and system prompt architecture for Large Language Models using Silly Tavern (ST) that prioritizes **uncompromising realism**, **sensory-only output**, and **complex psychological modeling**.
 
