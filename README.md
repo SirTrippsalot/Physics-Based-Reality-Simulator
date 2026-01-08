@@ -1,6 +1,6 @@
 # Physics-Based Reality Simulation Core
 
-A comprehensive framework and system prompt architecture for Large Language Models using Silly Tavern (ST) that prioritizes **uncompromising realism**, **sensory-only output**, and **complex psychological modeling**.
+A comprehensive framework and system prompt architecture for Large Language Models using [SillyTavern](https://github.com/SillyTavern/SillyTavern/tree/staging) (ST) that prioritizes **uncompromising realism**, **sensory-only output**, and **complex psychological modeling**.
 
 This core is designed to move AI beyond "storytelling" and into "world simulati
 
@@ -87,8 +87,5 @@ This project is intended for developers and power-users in the AI roleplay and s
 
 ---
 
-### Would you like me to...
-
-* Draft a **Quick-Start Guide** for users who want to implement this in specific frontends (like SillyTavern or Agnaistic)?
-* Create a **Developer's Guide** explaining how to modify the `Internal Domain` vs. `Social Domain` translation logic?
-* Generate a **Sample Entity Profile** using the Author-as-Archetype reference system (e.g., a "Bujold-coded" vs. "Tana French-coded" NPC)?
+### Known Issues
+- Gemini Flash: Issue with tags not being closed (missing </details>). Issue with sustems after the Psychic Fidelity Engine not rendering (Reroll required). | Both issues are simply AI failure to follow instructions, unable to resolve from all attemtps.
